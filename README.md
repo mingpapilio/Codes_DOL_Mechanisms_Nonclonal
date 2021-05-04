@@ -1,5 +1,5 @@
 # Codes_DOL_Mechanisms_Nonclonal
-This repository is for open access to source codes and data for the manuscript **The evolution of mechanisms to divide labour in non-clonal population**
+This repository is for open access to source codes and data for the manuscript entitled **"The evolution of mechanisms to divide labour in non-clonal populations"**.
 
 **Codes** contains source codes of all models: *analytical_q_residents* is the main analytical model, *analytical_q_optimal* is the analytical model in section 2 of supplementary information, and *simulations* are the codes for running the simulative model. For */simulations* source codes, please *make sure* the random number generators files (dSFMT) are correctly located in the *.c* files because those files are required for executing the program. Also, **please read** the notes at the beginning of each file as they provide descriptions of key parameters and instructions for running. 
 
